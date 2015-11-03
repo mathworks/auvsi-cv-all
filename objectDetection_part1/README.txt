@@ -25,7 +25,8 @@ examples - Files used in the video
 [~] bikeTorr.mp4 : Example input video to test Cascade Object Detector.
 [~] XML Files (Folder) : Contains XML files corresponding to detectors with different # of stages (NumStages)
 			 and False Alarm Rates (FAR). (Naming: bikedetector_NumStages_FAR.xml)
-[~] database (Folder) : Contains bike and non bike images for training Cascade Object Detector.
+[~] database (Folder) : Contains bike and non bike images for training Cascade Object Detector. All images 
+from this folder were obtained from the following database: http://www.emt.tugraz.at/~pinz/data/GRAZ_02/
 [~] ValidationSet (Folder) : Contains images for validation script.
 
 exercises - Files for exercise and practice tasks
